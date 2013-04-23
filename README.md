@@ -12,6 +12,6 @@ ORM for .NET with the following features
 * Database creation with ability to create tables and relationships
 * Support for complex type mappings
 
-Read more a http://www.hocospocos.com
+Read more at http://www.hocospocos.com
 
 
