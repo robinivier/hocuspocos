@@ -3,7 +3,7 @@ Hocus Pocos
 
 <h2 class="tagline">Turns your pocos into living database objects.</p>
 
-Features
+ORM for .NET with the following features
 
 * Single file
 * MSSQL 2005 +
