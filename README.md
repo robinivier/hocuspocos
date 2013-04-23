@@ -1,7 +1,7 @@
 Hocus Pocos
 ===========
 
-<h2 class="tagline">Turns your pocos into living database objects.</p>
+<h2 class="tagline">Turns your pocos into database objects.</p>
 
 ORM for .NET with the following features
 
