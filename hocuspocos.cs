@@ -1,4 +1,4 @@
-/* Hocus Pocos - Turns your pocos into living database objects.
+/* Hocus Pocos - Turns your pocos into database objects.
  * Version 0.9
  * 
  * Features
